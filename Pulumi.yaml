@@ -1,0 +1,3 @@
+name: konebone-dev
+runtime: go
+description: Konebone AWS dev environment
